@@ -18,5 +18,5 @@ It supports basic arithmetic operations along with additional functions like squ
 - **JavaScript (Vanilla)** – Functionality
 
 ## 🚀 Live Demo
-[Try the Calculator](https://your-live-link.com)
+[Try the Calculator](https://mdatiku007.github.io/Calculator-web-app/)
 
